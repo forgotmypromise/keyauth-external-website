@@ -1,9 +1,9 @@
 # keyauth-external-website
 my keyauth external website i use when im selling products and someone needs to check there key and info.
-+rep to zevxcc
+
 
 - 🥰 credit to keyauths api
-- ⚠ AM I NOT RESPONSABLE FOR WHAT YOU DO WITH THIS SRC
+- ⚠ I AM NOT RESPONSABLE FOR WHAT YOU DO WITH THIS SRC
 
 - test website: https://17b1c0aa-fe5b-4f5e-b09f-ca31edd0167d-00-2homleyl3bm5n.worf.replit.dev/login
 
